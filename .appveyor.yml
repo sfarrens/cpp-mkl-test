@@ -20,7 +20,7 @@ cache:
 environment:
   matrix:
     # - BLAS_VERSION: Intel10_32
-    - BLAS_VERSION: Intel10_64lp
+    # - BLAS_VERSION: Intel10_64lp
     - BLAS_VERSION: Intel10_64lp_seq
     # - BLAS_VERSION: Intel
 
